@@ -12,7 +12,7 @@ const IndexPage = () => (
         <p>I'm a computer science student from Oslo. I enjoy working with JavaScript and web technologies, but I know my way around other languages like Python and Java.</p>
         <p id="subtitle">Projects:</p>
         <p><a href="https://www.calculatortab.com/">Calculatortab</a>: Tiny calculator site. Built with ReactJS and GatsbyJS.</p>
-        <p><a href="https://www.cryptolurker.com/">Cryptolurker</a>: Cryptotracker</p>
+        <p><a href="https://www.cryptolurker.com/">Cryptolurker</a>: Comprehensive Blockchain Glossary. Built with jQuery.</p>
         <p><a href="https://github.com/NTNUI/booking">NTNUi booking</a>: Booking application for NTNUi. Built with Python, Django and PostgreSQL.</p>
       </div>
       <div className="subtext">
