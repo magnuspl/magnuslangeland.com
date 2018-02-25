@@ -8,13 +8,13 @@ const IndexPage = () => (
       <div className="subtext">
         <p>I'm a computer science student from Oslo. I enjoy working with JavaScript and web technologies, but I know my way around other languages like Python and Java</p>
         <p id="subtitle">Projects:</p>
-        <p><a href="https://www.calculatortab.com/">Calculatortab</a>: Saving the world one calculator at a time</p>
+        <p><a href="https://www.calculatortab.com/">Calculatortab</a>: Tiny calculator site. Built with ReactJS and GatsbyJS.</p>
         <p><a href="https://www.cryptolurker.com/">Cryptolurker</a>: Cryptotracker</p>
-        <p><a href="https://github.com/NTNUI/booking">NTNUi booking</a>: Booking application for NTNUi.</p>
+        <p><a href="https://github.com/NTNUI/booking">NTNUi booking</a>: Booking application for NTNUi. Built with Python, Django and PostgreSQL.</p>
       </div>
       <div className="subtext">
         <p id="subtitle">Old projects:</p>
-        <p><a href="https://www.facebook.com/parrybot/">Parry</a>: Facebook bot made for NTNU students.</p>
+        <p><a href="https://www.facebook.com/parrybot/">Parry</a>: Facebook bot made for NTNU students. Built with Python, Flask and MySQL.</p>
       </div>
       <div className="subtext">
         <p id="subtitle">Links:</p>
