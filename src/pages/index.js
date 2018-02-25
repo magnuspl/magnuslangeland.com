@@ -6,7 +6,7 @@ const IndexPage = () => (
     <div className="intro">
       <h1 id="name">Hey 👋 I'm Magnus Peter Langeland</h1>
       <div className="subtext">
-        <p>I'm a computer science student from Oslo</p>
+        <p>I'm a computer science student from Oslo. I enjoy working with JavaScript and web technologies, but I know my way around other languages like Python and Java</p>
         <p id="subtitle">Projects:</p>
         <p><a href="https://www.calculatortab.com/">Calculatortab</a>: Saving the world one calculator at a time</p>
         <p><a href="https://www.cryptolurker.com/">Cryptolurker</a>: Cryptotracker</p>
