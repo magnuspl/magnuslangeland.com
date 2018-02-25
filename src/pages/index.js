@@ -1,5 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
+var FontAwesome = require('react-fontawesome');
+import 'font-awesome/css/font-awesome.min.css';
 
 const IndexPage = () => (
   <div>
@@ -7,7 +9,7 @@ const IndexPage = () => (
       <h1 id="name">Hey 👋,</h1>
       <h2>I'm Magnus Peter Langeland</h2>
       <div className="subtext">
-        <p>I'm a computer science student from Oslo. I enjoy working with JavaScript and web technologies, but I know my way around other languages like Python and Java</p>
+        <p>I'm a computer science student from Oslo. I enjoy working with JavaScript and web technologies, but I know my way around other languages like Python and Java.</p>
         <p id="subtitle">Projects:</p>
         <p><a href="https://www.calculatortab.com/">Calculatortab</a>: Tiny calculator site. Built with ReactJS and GatsbyJS.</p>
         <p><a href="https://www.cryptolurker.com/">Cryptolurker</a>: Cryptotracker</p>
@@ -19,6 +21,7 @@ const IndexPage = () => (
       </div>
       <div className="subtext">
         <p id="subtitle">Links:</p>
+
         <p><a href="https://github.com/magnuspl/">GitHub</a></p>
         <p><a href="https://twitter.com/magnus_pl">Twitter</a></p>
         <p><a href="https://www.linkedin.com/in/magnus-peter-langeland-5a012142/">LinkedIn</a></p>
