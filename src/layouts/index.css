@@ -642,3 +642,7 @@ a {
 a:hover {
     background: #b4e7f8;
 }
+
+p#subtitle {
+    font-weight: bold;
+}
