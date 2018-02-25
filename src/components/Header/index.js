@@ -1,5 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Favicon from 'react-favicon';
+
 
 const Header = () => (
   <div
@@ -27,6 +29,7 @@ const Header = () => (
         </Link>
       </h1>
     </div>
+    <Favicon url="http://oflisback.github.io/react-favicon/public/img/github.ico" />
   </div>
 )
 
