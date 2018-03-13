@@ -17,7 +17,7 @@ const IndexPage = () => (
       </div>
       <div className="subtext">
         <p id="subtitle">Old projects:</p>
-        <p><a href="https://www.facebook.com/parrybot/">Parry</a>: Facebook bot made for NTNU students. The bot is no longer maintained and many of the built-in functions don't work anymore. He'll still talk to you though!. Built with Python, Flask and MySQL.</p>
+        <p><a href="https://www.facebook.com/parrybot/">Parry</a>: Facebook bot made for NTNU students. The bot is no longer maintained and many of the built-in functions don't work anymore, but Parry will still talk back to you though. Built with Python, Flask and MySQL.</p>
       </div>
       <div className="subtext">
         <p id="subtitle">Links:</p>
